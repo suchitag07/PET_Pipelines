@@ -58,6 +58,14 @@ PET_Pipelines
 =========================================================================================================
 ```	
 ---
+### Software/Dependencies
+1. dcm2niiX (version v1.0.20240202)
+2. FreeSurfer (version 7.1.1)
+3. MATLAB R2019b
+4. SPM with SUIT (spatially unbiased atlas template of the cerebellum and brainstem)
+5. ANTS (Advanced Normalization Tools)
+6. FSL (FMRIB Software Library)
+---
 
 ### Code Usage
 This code has been shared for reference. If you have any questions related to reuse/adaptation, please reach out to either me or Dr. Ioannis Pappas. 
