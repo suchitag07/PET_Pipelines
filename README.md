@@ -10,10 +10,10 @@
 ### Pipeline Scripts Overview
 
 ```bash
-								OVERVIEW OF PPG PET PIPELINE SCRIPTS
+								OVERVIEW OF PET PIPELINE SCRIPTS
 =========================================================================================================
 ## Scripts																		   # Purpose
-PPG_PET_Processing_Scripts
+PET_Pipelines
 │			   │
 │              ├──README.md
 │              ├──Instructions_Scripts.md
