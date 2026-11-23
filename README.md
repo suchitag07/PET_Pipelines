@@ -8,6 +8,7 @@
 	- *Landau, S., Murphy, A., Ward, T., & Jagust, W. Florbetaben (FBB) processing methods.https://adni.bitbucket.io/reference/docs/UCBERKELEYFBB/UCBerkeley_FBB_Methods_01.14.21.pdf*
 
 ### Pipeline Scripts Overview
+![](https://github.com/user-attachments/assets/29f23ce7-70f7-4d82-b295-631f8a52ac57)
 
 ```bash
 								OVERVIEW OF PET PIPELINE SCRIPTS
